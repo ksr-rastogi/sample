@@ -1,4 +1,4 @@
 # sample
 this is my first repository
 <br>
-Author : K S Rastogi
+Author : K S Rastogi(FSD)
